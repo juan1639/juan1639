@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ### Hola! 👋 Soy [Juan Eguía Abad](https://www.youtube.com/channel/UCoMYb7OP7zlj7omN6A83ZPg)
 > Programador autodidacta
@@ -20,9 +19,6 @@ Soy un programador autodidacta que aprende tecnologías a través de internet. P
 <p align="center">
 <a href="mailto:juaneguiabad1639@gmail.com"></a>
 </p>
-
-
-⭐️ From [@juan1639](https://github.com/juan1639)
 
 <!--
 **juan1639/juan1639** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
