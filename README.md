@@ -1,7 +1,7 @@
 
 ### Hola! 👋 Soy [Juan Eguía Abad](https://www.youtube.com/channel/UCoMYb7OP7zlj7omN6A83ZPg)
 <div style="text-align:center;">
-     <a href="https://www.youtube.com/channel/UCoMYb7OP7zlj7omN6A83ZPg">
+     <a href="https://www.youtube.com/channel/UCoMYb7OP7zlj7omN6A83ZPg" target="_blank">
        <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" style="width: 100px; max-width: 100%;">
      </a>
 </div>
@@ -93,10 +93,10 @@
 ### Aquí algunas URL de ejemplo de algún proyecto mío:
 
 <ul>
-     <li><a href="https://juan1639.github.io/PacClonF/">Una versión del Pacman en Vanilla JavaScript</a></li>
-     <li><a href="https://juan1639.github.io/Puzzle2games/">Un juego tipo Puzzle usando librería Phaser para JavaScript</a></li>
-     <li><a href="https://juan1639.github.io/Tetris/">Una versión del Tetris en Vanilla JavaScript</a></li>
-     <li><a href="https://juan1639.github.io/PacClon-vite-phaser/">Otra version Pacman usando librería Phaser para JavaScript</a></li>
+     <li><a href="https://juan1639.github.io/PacClonF/" target="_blank">Una versión del Pacman en Vanilla JavaScript</a></li>
+     <li><a href="https://juan1639.github.io/Puzzle2games/" target="_blank">Un juego tipo Puzzle usando librería Phaser para JavaScript</a></li>
+     <li><a href="https://juan1639.github.io/Tetris/" target="_blank">Una versión del Tetris en Vanilla JavaScript</a></li>
+     <li><a href="https://juan1639.github.io/PacClon-vite-phaser/" target="_blank">Otra version Pacman usando librería Phaser para JavaScript</a></li>
 </ul>
 
 <!--
