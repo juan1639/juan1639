@@ -66,17 +66,16 @@
 
 <table>
   <tr>
-       <td style="text-align:center;">
+     <td style="text-align:center;">
            <a href="https://nodejs.org/pt">
              <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png" alt="node-img" style="width: 100px; max-width: 100%;">
            </a>
-         </td>
-       </tr>
-       <td style="text-align:center;">
+     </td>
+     <td style="text-align:center;">
            <a href="https://www.sqlite.org/">
              <img src="https://cdn.pixabay.com/photo/2013/09/18/12/13/sqlite-183454_1280.png" alt="sqlite-img" style="width: 100px; max-width: 100%;">
            </a>
-          </td>
+     </td>
   </tr>
 </table>
 
@@ -93,10 +92,12 @@
 
 ### Aquí algunas URL de ejemplo de algún proyecto mío:
 
-<a href="https://juan1639.github.io/PacClonF/">Una versión del Pacman en Vanilla JavaScript</a>
-<a href="https://juan1639.github.io/Puzzle2games/">Un juego tipo Puzzle usando librería Phaser para JavaScript</a>
-<a href="https://juan1639.github.io/Tetris/">Una versión del Tetris en Vanilla JavaScript</a>
-<a href="https://juan1639.github.io/PacClon-vite-phaser/">Otra version Pacman usando librería Phaser para JavaScript</a>
+<ul>
+     <li><a href="https://juan1639.github.io/PacClonF/">Una versión del Pacman en Vanilla JavaScript</a></li>
+     <li><a href="https://juan1639.github.io/Puzzle2games/">Un juego tipo Puzzle usando librería Phaser para JavaScript</a></li>
+     <li><a href="https://juan1639.github.io/Tetris/">Una versión del Tetris en Vanilla JavaScript</a></li>
+     <li><a href="https://juan1639.github.io/PacClon-vite-phaser/">Otra version Pacman usando librería Phaser para JavaScript</a></li>
+</ul>
 
 <!--
 **juan1639/juan1639** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
