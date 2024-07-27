@@ -47,7 +47,7 @@ Soy un programador autodidacta que aprende tecnologías a través de internet. P
     </td>
    <td style="text-align:center;">
       <a href="https://spring.io/">
-        <img src="https://raw.githubusercontent.com/github/explore/379d49236d826364a631beca37a155d1c27907e9/topics/spring/spring.png" alt="Spring" style="width: 100px; max-width: 100%;">
+        <img src="https://cdn.pixabay.com/photo/2020/08/05/13/27/eco-5465459_1280.png" alt="Spring" style="width: 100px; max-width: 100%;">
       </a>
     </td>
   </tr>
