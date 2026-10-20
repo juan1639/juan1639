@@ -14,7 +14,7 @@
      He aprendido de forma autodidacta y mediante formaciones especializadas a desplegar proyectos web con diversas tecnologías.
      Domino varios lenguajes de programación como java, javascript, C# y sobre todo python.
      Éste último me ha introducido en el Machine Learning, Deep Learning, agentes y automatizaciones IA, MLOps, etc.
-     Siempre he sido un entusiasta de la programación de videojuegos y muchos de mis repositorios son pequeños videojuegos.
+     Siempre he sido un entusiasta de la programación de videojuegos como puede verse en muchos de mis repositorios.
 </p>
 </div>
 
