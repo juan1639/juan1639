@@ -6,7 +6,7 @@
      </a>
 </div>
 
-### Autodidacta tecnológico
+### Técnico Especialista en IA
 
 <div>
  <p>
