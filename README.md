@@ -6,14 +6,14 @@
      </a>
 </div>
 
-### Programador fullstack autodidacta
+### Autodidacta tecnológico
 
 <div>
  <p>
-  Soy un programador fullstack autodidacta que aprende tecnologías a través de internet. 
-  Me gusta programar cualquier cosa, (si puedes imaginarlo, puedes programarlo).
-  En mis repositorios hay gran cantidad de pequeños juegos de tipo arcade que me ayudan a mejorar mucho mi lógica de programación.
-  También hay apps, la mayoría programadas con Java y Spring.
+     Soy un entusiasta del mundo de la programación.
+     He aprendido de forma autodidacta y mediante formaciones especializadas a desplegar proyectos web con diversas tecnologías.
+     Domino varios lenguajes de programación como java, javascript, C# y sobre todo python.
+     Éste último me ha introducido en el Machine Learning, Deep Learning, agentes y automatizaciones IA, MLOps, etc.
 </p>
 </div>
 
