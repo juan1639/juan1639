@@ -2,7 +2,7 @@
 ### Hola! 👋 Soy [Juan Eguía Abad](https://www.youtube.com/channel/UCoMYb7OP7zlj7omN6A83ZPg)
 <div style="text-align:center;">
      <a href="https://www.youtube.com/channel/UCoMYb7OP7zlj7omN6A83ZPg" target="_blank">
-       <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" style="width: 100px; max-width: 100%;">
+       <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" style="width: 100px; max-width: 100%;">
      </a>
 </div>
 
@@ -18,6 +18,107 @@
 </p>
 </div>
 
+### Inteligencia Artificial 🤖
+
+### Machine Learning y Data Science:
+<table>
+  <tr>
+    <td style="text-align:center;">
+      <a href="https://scikit-learn.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="100" height="100">
+      </a>
+    </td>
+    <td style="text-align:center;">
+      <a href="https://pandas.pydata.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="pandas" width="100" height="100">
+      </a>
+    </td>
+    <td style="text-align:center;">
+      <a href="https://numpy.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="numpy" width="100" height="100">
+      </a>
+    </td>
+    <td style="text-align:center;">
+      <a href="https://matplotlib.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="100" height="100">
+      </a>
+    </td>
+    <td style="text-align:center;">
+      <a href="https://jupyter.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="jupyter" width="100" height="100">
+      </a>
+    </td>
+  </tr>
+</table>
+
+### Deep Learning:
+<table>
+  <tr>
+    <td style="text-align:center;">
+      <a href="https://www.tensorflow.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="100" height="100">
+      </a>
+    </td>
+    <td style="text-align:center;">
+      <a href="https://keras.io/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="keras" width="100" height="100">
+      </a>
+    </td>
+    <td style="text-align:center;">
+      <a href="https://pytorch.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch" width="100" height="100">
+      </a>
+    </td>
+  </tr>
+</table>
+
+### IA Generativa y Agentes:
+<table>
+  <tr>
+    <td style="text-align:center;">
+      <a href="https://www.langchain.com/">
+        <img src="https://cdn.simpleicons.org/langchain/1C3C3C/white" alt="langchain" width="100" height="100">
+      </a>
+    </td>
+    <td style="text-align:center;">
+      <a href="https://www.langchain.com/langgraph">
+        <img src="https://cdn.simpleicons.org/langgraph/1C3C3C/white" alt="langgraph" width="100" height="100">
+      </a>
+    </td>
+    <td style="text-align:center;">
+      <a href="https://huggingface.co/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/huggingface/huggingface-original.svg" alt="hugging-face" width="100" height="100">
+      </a>
+    </td>
+  </tr>
+</table>
+
+### MLOps:
+<table>
+  <tr>
+    <td style="text-align:center;">
+      <a href="https://mlflow.org/">
+        <img src="https://cdn.simpleicons.org/mlflow/0194E2" alt="mlflow" width="100" height="100">
+      </a>
+    </td>
+    <td style="text-align:center;">
+      <a href="https://fastapi.tiangolo.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="fastapi" width="100" height="100">
+      </a>
+    </td>
+    <td style="text-align:center;">
+      <a href="https://www.docker.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="100" height="100">
+      </a>
+    </td>
+    <td style="text-align:center;">
+      <a href="https://github.com/features/actions">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="github-actions" width="100" height="100">
+      </a>
+    </td>
+  </tr>
+</table>
+
 ### Programming Languages 🌐
 
 <!--| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40">](https://www.javascript.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40">](https://react.dev/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="Vue" width="40" height="40">](https://vuejs.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/phaser/phaser.png" alt="Bootstrap" width="40" height="40">](https://getbootstrap.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="jQuery" width="40" height="40">](https://spring.io/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="jQuery" width="40" height="40">](https://www.java.com/es/) |
@@ -28,17 +129,17 @@
   <tr>
     <td style="text-align:center;">
       <a href="https://www.javascript.com/">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript-img" style="width: 100px; max-width: 100%;">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript-img" width="100" style="width: 100px; max-width: 100%;">
       </a>
     </td>
     <td style="text-align:center;">
       <a href="https://react.dev/">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react-img" style="width: 100px; max-width: 100%;">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react-img" width="100" style="width: 100px; max-width: 100%;">
       </a>
     </td>
     <td style="text-align:center;">
       <a href="https://www.w3.org/Style/CSS/">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS-img" style="width: 100px; max-width: 100%;">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS-img" width="100" style="width: 100px; max-width: 100%;">
       </a>
     </td>
   </tr>
@@ -49,17 +150,17 @@
   <tr>
     <td style="text-align:center;">
       <a href="https://www.java.com/es/">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java-img" style="width: 100px; max-width: 100%;">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java-img" width="100" style="width: 100px; max-width: 100%;">
       </a>
     </td>
    <td style="text-align:center;">
       <a href="https://spring.io/">
-        <img src="https://cdn.pixabay.com/photo/2020/08/05/13/27/eco-5465459_1280.png" alt="Spring" style="width: 100px; max-width: 100%;">
+        <img src="https://cdn.pixabay.com/photo/2020/08/05/13/27/eco-5465459_1280.png" alt="Spring" width="100" style="width: 100px; max-width: 100%;">
       </a>
     </td>
    <td style="text-align:center;">
       <a href="https://www.python.org/">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="phyton-img" style="width: 100px; max-width: 100%;">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python-img" width="100" style="width: 100px; max-width: 100%;">
       </a>
     </td>
   </tr>
@@ -69,12 +170,12 @@
   <tr>
      <td style="text-align:center;">
            <a href="https://nodejs.org/pt">
-             <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png" alt="node-img" style="width: 100px; max-width: 100%;">
+             <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png" alt="node-img" width="100" style="width: 100px; max-width: 100%;">
            </a>
      </td>
      <td style="text-align:center;">
            <a href="https://www.sqlite.org/">
-             <img src="https://cdn.pixabay.com/photo/2013/09/18/12/13/sqlite-183454_1280.png" alt="sqlite-img" style="width: 100px; max-width: 100%;">
+             <img src="https://cdn.pixabay.com/photo/2013/09/18/12/13/sqlite-183454_1280.png" alt="sqlite-img" width="100" style="width: 100px; max-width: 100%;">
            </a>
      </td>
   </tr>
@@ -85,7 +186,7 @@
   <tr>
   <td style="text-align:center;">
       <a href="https://phaser.io/">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/phaser/phaser.png" alt="Phaser-img" style="width: 100px; max-width: 100%;">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/phaser/phaser.png" alt="Phaser-img" width="100" style="width: 100px; max-width: 100%;">
       </a>
     </td>
   </tr>
