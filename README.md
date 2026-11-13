@@ -199,6 +199,7 @@
      <li><a href="https://juan1639.github.io/Puzzle2games/" target="_blank">Un juego tipo Puzzle usando librería Phaser para JavaScript</a></li>
      <li><a href="https://juan1639.github.io/Tetris/" target="_blank">Una versión del Tetris en Vanilla JavaScript</a></li>
      <li><a href="https://juan1639.github.io/PacClon-vite-phaser/" target="_blank">Otra version Pacman usando librería Phaser para JavaScript</a></li>
+     <li><a href="https://mlops-web.onrender.com/" target="_blank">Una web que obtiene predicciones ML acerca de la diabetes</a></li>
 </ul>
 
 <!--
